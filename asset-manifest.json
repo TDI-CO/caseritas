@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/caseritas/static/css/main.c0ba2619.css",
-    "main.js": "/caseritas/static/js/main.6ff612e3.js",
+    "main.js": "/caseritas/static/js/main.adb675cc.js",
     "static/js/787.446e34b3.chunk.js": "/caseritas/static/js/787.446e34b3.chunk.js",
     "static/media/Header.jpeg": "/caseritas/static/media/Header.6b9b63fb6df137752253.jpeg",
     "static/media/bg-H.jpg": "/caseritas/static/media/bg-H.5e77c80073a1ece29926.jpg",
@@ -9,11 +9,11 @@
     "static/media/salchipapa.jpeg": "/caseritas/static/media/salchipapa.5676259b5f4e8cac1012.jpeg",
     "index.html": "/caseritas/index.html",
     "main.c0ba2619.css.map": "/caseritas/static/css/main.c0ba2619.css.map",
-    "main.6ff612e3.js.map": "/caseritas/static/js/main.6ff612e3.js.map",
+    "main.adb675cc.js.map": "/caseritas/static/js/main.adb675cc.js.map",
     "787.446e34b3.chunk.js.map": "/caseritas/static/js/787.446e34b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0ba2619.css",
-    "static/js/main.6ff612e3.js"
+    "static/js/main.adb675cc.js"
   ]
 }
