@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/caseritas/static/css/main.5790a2ae.css",
-    "main.js": "/caseritas/static/js/main.de0fb598.js",
+    "main.css": "/caseritas/static/css/main.ff7d1ba7.css",
+    "main.js": "/caseritas/static/js/main.f0f74c4d.js",
     "static/js/787.446e34b3.chunk.js": "/caseritas/static/js/787.446e34b3.chunk.js",
     "static/media/Header.jpeg": "/caseritas/static/media/Header.6b9b63fb6df137752253.jpeg",
     "static/media/bg-H.jpg": "/caseritas/static/media/bg-H.5e77c80073a1ece29926.jpg",
     "static/media/Burritos.jpg": "/caseritas/static/media/Burritos.62888413f354e621bddc.jpg",
     "static/media/salchipapa.jpeg": "/caseritas/static/media/salchipapa.5676259b5f4e8cac1012.jpeg",
     "index.html": "/caseritas/index.html",
-    "main.5790a2ae.css.map": "/caseritas/static/css/main.5790a2ae.css.map",
-    "main.de0fb598.js.map": "/caseritas/static/js/main.de0fb598.js.map",
+    "main.ff7d1ba7.css.map": "/caseritas/static/css/main.ff7d1ba7.css.map",
+    "main.f0f74c4d.js.map": "/caseritas/static/js/main.f0f74c4d.js.map",
     "787.446e34b3.chunk.js.map": "/caseritas/static/js/787.446e34b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5790a2ae.css",
-    "static/js/main.de0fb598.js"
+    "static/css/main.ff7d1ba7.css",
+    "static/js/main.f0f74c4d.js"
   ]
 }
